@@ -12,7 +12,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610887169/5773aed
 
 ## Follow along with the video 👇
 
-[![How to Download Coursera Videos (YouTube)](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610884749/0a850da4-3a31-470b-96ca-3ee3a49b827e.jpeg)](https://www.youtube.com/watch?v=iuX_rUFVcWg)
+[![How to Download Coursera Videos (YouTube)](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610884749/0a850da4-3a31-470b-96ca-3ee3a49b827e.jpeg)](https://www.youtube.com/watch?v=0JgiWUOi994)
 
 
 ## Steps

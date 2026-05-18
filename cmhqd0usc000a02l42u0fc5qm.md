@@ -225,7 +225,7 @@ Here’s the full article again, now with a **compact command cheat sheet sectio
 
 # Click the image below to watch the video 👇
 
-[![How to Download Loom Videos tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610902933/76a43dbc-e56b-447e-b8e7-59bd1ddd30f1.jpeg)](https://www.youtube.com/watch?v=4MnyU0kPxlE)
+[![How to Download Loom Videos tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610902933/76a43dbc-e56b-447e-b8e7-59bd1ddd30f1.jpeg)](https://www.youtube.com/watch?v=j-QpUHlRALo)
 
 # How to Download Loom Videos: A Complete Step-by-Step Guide (With Real Examples)
 

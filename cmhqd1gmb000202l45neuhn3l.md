@@ -21,7 +21,7 @@ If you’re looking for a simpler solution or have any questions about this proc
 
 ## Watch the video
 
-[![How to Download Videos from Skool.com tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610921730/f2a43dd2-57db-4ea0-ba53-f04ee64cd2c1.jpeg)](https://www.youtube.com/watch?v=tgDmBdReTqA)
+[![How to Download Videos from Skool.com tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610921730/f2a43dd2-57db-4ea0-ba53-f04ee64cd2c1.jpeg)](https://www.youtube.com/watch?v=_NinMA9Tqis)
 
 ## Prereqs
 
@@ -425,7 +425,7 @@ If you’re looking for a simpler solution or have any questions about this proc
 
 ## Watch the video
 
-[![How to Download Videos from Skool.com tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610927361/31d87e49-90c9-4ee0-9bc0-547c5a46c939.jpeg)](https://www.youtube.com/watch?v=tgDmBdReTqA)
+[![How to Download Videos from Skool.com tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610927361/31d87e49-90c9-4ee0-9bc0-547c5a46c939.jpeg)](https://www.youtube.com/watch?v=_NinMA9Tqis)
 
 ## Prereqs
 

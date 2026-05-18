@@ -418,6 +418,6 @@ So if that helped, and you're feelin generous - feel free to sponsor me so I can
 
 # Method 3: How to download skool.com videos easily with the browser extension
 
-%[https://www.youtube.com/watch?v=WRSzeFI_Q7g] 
+%[https://www.youtube.com/watch?v=BIcBKt7MYyU]
 
-%[https://www.youtube.com/watch?v=J9eetd89HZk]
+%[https://www.youtube.com/watch?v=ujWUiJxk614]

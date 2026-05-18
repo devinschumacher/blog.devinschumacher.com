@@ -414,6 +414,6 @@ So if that helped, and you're feelin generous - feel free to sponsor me so I can
 
 # How to download a single video from skool.com (Method 3 - Chrome Extension)
 
-%[https://youtu.be/WRSzeFI_Q7g] 
+%[https://youtu.be/BIcBKt7MYyU]
 
-Download it here: [https://serp.ly/skool-video-downloader-extension](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqblJMdFcxXzd6MU54V19PYTZwV3d3SFhJR2JZQXxBQ3Jtc0tta1RQdUx0RmtFWnpHVXJaNmhWZDBhWXR3bXZ6TkR2NGhHOW5yYmVyU0lTQ2UxRzVubEZGYlRNODJ5VkVWN2RoYUNaUzJqOHBlWUdYdFZSMjBvam1UbldtT1VMTVR5cnd2UlB2YVBxMU51amdvUThvOA&q=https%3A%2F%2Fserp.ly%2Fskool-video-downloader-extension)
+Download it here: [https://serp.ly/skool-video-downloader-extension](https://serp.ly/skool-video-downloader-extension)
