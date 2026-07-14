@@ -14,7 +14,7 @@ Circle.so hosts course videos using **HLS streaming**, where video data is split
 
 This guide shows you how to **download**, **optimize**, and **auto-name** Circle Academy videos with a single command on macOS.
 
-[![How to Download Circle.so Videos for Free (HLS m3u8 Streams) - using yt-dlp](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610912246/952cb98d-bc47-4d54-87d5-833c39914708.jpeg)](https://www.youtube.com/watch?v=OjdabspScTY)
+[![How to Download Circle.so Videos for Free (HLS m3u8 Streams) - using yt-dlp](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610912246/952cb98d-bc47-4d54-87d5-833c39914708.jpeg)](https://www.youtube.com/watch?v=_8XKKHj0eLs)
 
 
 ## 💡 **Tip:** Don’t want to do this manually?  
