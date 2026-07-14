@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610899938/81c58ad
 
 # How to Download YouTube Videos for Free with yt-dlp
 
+> 💡 **Want the easy way?** Get the [YouTube Video Downloader extension](https://serp.ly/youtube-downloader?via=blog.devinschumacher.com) and download YouTube videos without commands or DevTools.
+
 
 ## 1. The Basic Command
 

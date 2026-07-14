@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610883057/e0612af
 
 # How to Download TikTok Videos
 
+> 💡 **Want the easy way?** Get the [TikTok Video Downloader extension](https://serp.ly/tiktok-video-downloader?via=blog.devinschumacher.com) and download TikTok videos without commands or DevTools.
+
 TikTok stores videos on short-lived CDN links — those long URLs with v16-webapp-prime.us.tiktok.com and ?expire= tokens.
 
 Those links expire quickly and won’t work by themselves. 
@@ -80,7 +82,7 @@ These links expire fast, so you’ll need a new one if it stops working.
 
 If you don’t want to touch the command line, try the web version instead:
 
-👉 [TikTok Video Downloader](http://serp.ly/tiktok-video-downloader) — paste any TikTok link, download instantly (no watermark, no setup).
+👉 [TikTok Video Downloader](http://serp.ly/tiktok-video-downloader?via=blog.devinschumacher.com) — paste any TikTok link, download instantly (no watermark, no setup).
 
 It uses the same backend logic (yt-dlp + ffmpeg) — just wrapped in a clean, fast web interface.
 

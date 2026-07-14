@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610910463/5296a1c
 
 # 📥 Downloading Long Vimeo Videos (DASH Streams) with yt-dlp
 
+> 💡 **Want the easy way?** Get the [Vimeo Video Downloader extension](https://serp.ly/vimeo-downloader?via=blog.devinschumacher.com) and download Vimeo videos without commands or DevTools.
+
 Vimeo streams video in two possible ways:
 
 * **HLS** → uses `.m3u8` playlists and `.ts`/fragmented MP4 segments.
@@ -142,7 +144,7 @@ vs.
 
 ---
 
-👉 Try the [Vimeo Video Downloader](https://serp.ly/vimeo-video-downloader)
+👉 Try the [Vimeo Video Downloader](https://serp.ly/vimeo-video-downloader?via=blog.devinschumacher.com)
 
 ## Related
 

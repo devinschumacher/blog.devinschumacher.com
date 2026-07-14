@@ -18,11 +18,11 @@ Download Vimeo videos to your computer for offline watching from any webpage wit
 
 ## 🔗 Links
 
-* 🎁 Get it [here](https://serp.ly/stuff/vimeo-video-downloader)
+* 🎁 Get it [here](https://serp.ly/vimeo-downloader?via=blog.devinschumacher.com)
     
 * ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
     
-* 🆘 Ask questions [here](https://serp.ly/@serp/community)
+* 🆘 Ask questions [here](https://serp.ly/@serp/community?via=blog.devinschumacher.com)
     
 * 🐛 Report bugs [here](https://github.com/serpapps/vimeo-video-downloader/issues)
     
@@ -31,13 +31,13 @@ Download Vimeo videos to your computer for offline watching from any webpage wit
 
 ### Resources
 
-* 💬 [SERP University - Community](https://serp.ly/@serp/community)
+* 💬 [SERP University - Community](https://serp.ly/@serp/community?via=blog.devinschumacher.com)
     
-* 💌 [Newsletter](https://serp.ly/@serp/email)
+* 💌 [Newsletter](https://serp.ly/@serp/email?via=blog.devinschumacher.com)
     
-* 🛒 [Shop](https://serp.ly/@serp/store)
+* 🛒 [Shop](https://serp.ly/@serp/store?via=blog.devinschumacher.com)
     
-* 🎓 [Courses](https://serp.ly/@serp/courses)
+* 🎓 [Courses](https://serp.ly/@serp/courses?via=blog.devinschumacher.com)
     
 
 ## Table of Contents

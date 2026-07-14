@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610915785/fba1afc
 
 # 🛠️ How to Download Skool Videos Using `yt-dlp` and a Signed `.m3u8` URL
 
+> 💡 **Want the easy way?** Get the [Skool Video Downloader extension](https://serp.ly/skool-video-downloader-extension?via=blog.devinschumacher.com) and download Skool videos without commands or DevTools.
+
 If you’ve ever tried downloading videos hosted on [Skool.com](https://www.skool.com), you’ve probably run into access errors or 403s. That’s because Skool streams video using tokenized `.m3u8` manifests over CDN infrastructure — specifically **Fastly** — with strict header and token checks.
 
 This guide walks you through the **exact working method** to download those videos using [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), the modern replacement for `youtube-dl`.

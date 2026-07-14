@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610881405/43adde3
 
 # How to Download Skool Videos with yt-dlp
 
+> 💡 **Want the easy way?** Get the [Skool Video Downloader extension](https://serp.ly/skool-video-downloader-extension?via=blog.devinschumacher.com) and download Skool videos without commands or DevTools.
+
 Skool delivers videos over **HLS** (`.m3u8` playlists) with **short-lived signed tokens**. These tokens expire, so you must grab a fresh link from DevTools → Network when you want to download.
 
 ---

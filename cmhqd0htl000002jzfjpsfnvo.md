@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610887169/5773aed
 
 # How to Download Coursera Videos for FREE (yt-dlp tutorial)
 
+> 💡 **Want the easy way?** Get the [Coursera Downloader extension](https://serp.ly/coursera-downloader?via=blog.devinschumacher.com) and download Coursera videos without commands or DevTools.
+
 ## Follow along with the video 👇
 
 [![How to Download Coursera Videos (YouTube)](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610884749/0a850da4-3a31-470b-96ca-3ee3a49b827e.jpeg)](https://www.youtube.com/watch?v=iuX_rUFVcWg)

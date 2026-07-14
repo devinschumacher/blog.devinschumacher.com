@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610920124/3aa67ac
 
 # 📥 Downloading Password-Protected Vimeo Videos with yt-dlp
 
+> 💡 **Want the easy way?** Get the [Vimeo Video Downloader extension](https://serp.ly/vimeo-downloader?via=blog.devinschumacher.com) and download Vimeo videos without commands or DevTools.
+
 Vimeo can serve video in a few different ways:
 
 * **HLS** (`.m3u8` playlists + `.ts`/fragmented MP4 segments)

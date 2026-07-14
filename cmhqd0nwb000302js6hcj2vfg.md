@@ -16,7 +16,7 @@ To download reliably, you need some tools.
 
 In this guide ill show you how to do it the manual hacker-kinda-feeling-like way.
 
-If it's too much for you, just pick up the [Udemy Video Downloader](https://serp.ly/udemy-video-downloader) app and be on your way.
+If it's too much for you, just pick up the [Udemy Video Downloader](https://serp.ly/udemy-video-downloader?via=blog.devinschumacher.com) app and be on your way.
 
 
 ## 1. Get the Lecture or Course URL

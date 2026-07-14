@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610932087/89de39b
 
 # How to download skool.com videos (and the entire course)
 
+> 💡 **Want the easy way?** Get the [Skool Video Downloader extension](https://serp.ly/skool-video-downloader-extension?via=blog.devinschumacher.com) and download Skool videos without commands or DevTools.
+
 ## Version 1 - Comprehensive, More Difficult
 
 > You can download the entire classroom with this, but its not beginner friendly.
@@ -21,7 +23,7 @@ If you’re looking for a simpler solution or have any questions about this proc
 
 ## Watch the video
 
-[![How to Download Videos from Skool.com tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610921730/f2a43dd2-57db-4ea0-ba53-f04ee64cd2c1.jpeg)](https://www.youtube.com/watch?v=tgDmBdReTqA)
+[![How to Download Videos from Skool.com tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610921730/f2a43dd2-57db-4ea0-ba53-f04ee64cd2c1.jpeg)](https://www.youtube.com/watch?v=py8fTqoUAIE)
 
 ## Prereqs
 
@@ -30,7 +32,7 @@ If you’re looking for a simpler solution or have any questions about this proc
 3. [Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
 4. [visual studio code](https://code.visualstudio.com/) (free)
 5. [live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for visual studio code (free)
-6. [pants](https://serp.ly/amazon/pants) (in order for this process to work you have to be wearing pants unfortunately)
+6. [pants](https://serp.ly/amazon/pants?via=blog.devinschumacher.com) (in order for this process to work you have to be wearing pants unfortunately)
 
 ## Steps overview
 
@@ -411,7 +413,7 @@ So if that helped, and you're feelin generous - feel free to sponsor me so I can
 
 
 
-> [Click here to sponsor devin's baths](https://serp.ly/@devin/sponsor)
+> [Click here to sponsor devin's baths](https://serp.ly/@devin/sponsor?via=blog.devinschumacher.com)
 
 # How to download skool.com videos (and the entire course)
 ## Version 1 - Comprehensive, More Difficult
@@ -425,7 +427,7 @@ If you’re looking for a simpler solution or have any questions about this proc
 
 ## Watch the video
 
-[![How to Download Videos from Skool.com tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610927361/31d87e49-90c9-4ee0-9bc0-547c5a46c939.jpeg)](https://www.youtube.com/watch?v=tgDmBdReTqA)
+[![How to Download Videos from Skool.com tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610927361/31d87e49-90c9-4ee0-9bc0-547c5a46c939.jpeg)](https://www.youtube.com/watch?v=py8fTqoUAIE)
 
 ## Prereqs
 
@@ -434,7 +436,7 @@ If you’re looking for a simpler solution or have any questions about this proc
 3. [Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
 4. [visual studio code](https://code.visualstudio.com/) (free)
 5. [live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for visual studio code (free)
-6. [pants](https://serp.ly/amazon/pants) (in order for this process to work you have to be wearing pants unfortunately)
+6. [pants](https://serp.ly/amazon/pants?via=blog.devinschumacher.com) (in order for this process to work you have to be wearing pants unfortunately)
 
 ## Steps overview
 
@@ -816,7 +818,7 @@ So if that helped, and you're feelin generous - feel free to sponsor me so I can
 
 
 
-> [Click here to sponsor devin's baths](https://serp.ly/@devin/sponsor)
+> [Click here to sponsor devin's baths](https://serp.ly/@devin/sponsor?via=blog.devinschumacher.com)
 
 
 ## Related

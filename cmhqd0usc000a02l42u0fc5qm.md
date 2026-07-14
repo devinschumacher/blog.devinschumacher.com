@@ -21,7 +21,7 @@ We’ll cover several different real-world scenarios you’ll encounter — from
 <br /><br />
 👉 Want the easy way? 
 
-Skip the terminal and use the [Loom Video Downloader](https://serp.ly/loom-video-downloader) — a browser-based tool that lets you grab your Loom videos in just a couple of clicks.  
+Skip the terminal and use the [Loom Video Downloader](https://serp.ly/loom-video-downloader?via=blog.devinschumacher.com) — a browser-based tool that lets you grab your Loom videos in just a couple of clicks.  
 <br />
 
 Or check out the official repository: https://github.com/serpapps/loom-video-downloader
@@ -165,7 +165,7 @@ yt-dlp -f "bestvideo+bestaudio" "https://www.loom.com/embed/ddcf1c1ad21f451ea746
 
 **Notes:** Always use the `+` operator to join separate streams.
 
-💡 Tip: If dealing with **embeds, subtitles, or audio/video splits feels too complicated**, the [Loom Video Downloader](https://serp.ly/loom-video-downloader) automates the entire process — no commands, no DevTools, just copy-paste your Loom link and download.
+💡 Tip: If dealing with **embeds, subtitles, or audio/video splits feels too complicated**, the [Loom Video Downloader](https://serp.ly/loom-video-downloader?via=blog.devinschumacher.com) automates the entire process — no commands, no DevTools, just copy-paste your Loom link and download.
 
 ---
 
@@ -211,7 +211,7 @@ That’s seven concrete examples of downloading Loom videos under different cond
 
 By practicing with these examples, you’ll be ready for nearly any variation Loom throws at you — whether it’s MP4 vs WebM, subtitles, split streams, or multiple resolutions.
 
-⚡ Want to save time and skip the terminal? Use the [Loom Video Downloader](https://serp.ly/loom-video-downloader) for one-click downloads of your Loom recordings.
+⚡ Want to save time and skip the terminal? Use the [Loom Video Downloader](https://serp.ly/loom-video-downloader?via=blog.devinschumacher.com) for one-click downloads of your Loom recordings.
 
 
 👉 For the full **command reference and raw steps**, check out this companion gist:  
@@ -225,7 +225,7 @@ Here’s the full article again, now with a **compact command cheat sheet sectio
 
 # Click the image below to watch the video 👇
 
-[![How to Download Loom Videos tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610902933/76a43dbc-e56b-447e-b8e7-59bd1ddd30f1.jpeg)](https://www.youtube.com/watch?v=4MnyU0kPxlE)
+[![How to Download Loom Videos tutorial thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1762610902933/76a43dbc-e56b-447e-b8e7-59bd1ddd30f1.jpeg)](https://www.youtube.com/watch?v=OTusHCQbMPg)
 
 # How to Download Loom Videos: A Complete Step-by-Step Guide (With Real Examples)
 
@@ -233,7 +233,7 @@ Loom is a great tool for recording and sharing videos, but the platform has rest
 
 That’s frustrating, but it’s fixable. In this article, I’ll walk you through the exact process of detecting, inspecting, and downloading Loom videos using **yt-dlp**. We’ll cover several different real-world scenarios you’ll encounter — from normal share links, to embeds, to videos with separate audio and video streams.  
 
-👉 Want the easy way? Skip the terminal and use the [Loom Video Downloader](https://serp.ly/loom-video-downloader) — a browser-based tool that lets you grab your Loom videos in just a couple of clicks.  
+👉 Want the easy way? Skip the terminal and use the [Loom Video Downloader](https://serp.ly/loom-video-downloader?via=blog.devinschumacher.com) — a browser-based tool that lets you grab your Loom videos in just a couple of clicks.  
 
 👉 For the full **command reference and raw steps**, check out this companion gist:  
 [How To Download Loom Videos For Free! 🚀 DL Without Subscription | ~10 Examples (.mp4, HLS, .m3u8) — STEP BY STEP](https://gist.github.com/devinschumacher/b7be00df9d9809d0ea55663d88dc9d3c)
@@ -314,7 +314,7 @@ yt-dlp "https://www.loom.com/share/24351eb8b317420289b158e4b7e96ff2"
 yt-dlp -f "bestvideo+bestaudio" "https://www.loom.com/embed/ddcf1c1ad21f451ea7468b1e33917e4e"
 ```
 
-💡 Tip: If dealing with **embeds, subtitles, or audio/video splits feels too complicated**, the [Loom Video Downloader](https://serp.ly/loom-video-downloader) automates the entire process — no commands, no DevTools, just copy-paste your Loom link and download.
+💡 Tip: If dealing with **embeds, subtitles, or audio/video splits feels too complicated**, the [Loom Video Downloader](https://serp.ly/loom-video-downloader?via=blog.devinschumacher.com) automates the entire process — no commands, no DevTools, just copy-paste your Loom link and download.
 
 ---
 
@@ -338,7 +338,7 @@ That’s seven concrete examples of downloading Loom videos under different cond
 
 By practicing with these examples, you’ll be ready for nearly any variation Loom throws at you — whether it’s MP4 vs WebM, subtitles, split streams, or multiple resolutions.
 
-⚡ Want to save time and skip the terminal? Use the [Loom Video Downloader](https://serp.ly/loom-video-downloader) for one-click downloads of your Loom recordings.
+⚡ Want to save time and skip the terminal? Use the [Loom Video Downloader](https://serp.ly/loom-video-downloader?via=blog.devinschumacher.com) for one-click downloads of your Loom recordings.
 
 ---
 

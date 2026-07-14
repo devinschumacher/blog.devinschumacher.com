@@ -14,7 +14,7 @@ Whop.com hosts its videos using **Mux**, which serves them over **HLS streaming*
 
 If you want to save these videos locally as clean `.mp4` files, you can do it reliably with the following process...
 
-👉 Or you can just get the [Whop Video Downloader](https://serp.ly/whop-video-downloader)
+👉 Or you can just get the [Whop Video Downloader](https://serp.ly/whop-video-downloader?via=blog.devinschumacher.com)
 
 
 ---

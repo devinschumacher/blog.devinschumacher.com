@@ -14,7 +14,7 @@ When Wistia hosts a video, it’s not a single `.mp4` file — it’s delivered 
 
 The easiest and most reliable way to find it is through your browser’s **Network tab**.
 
-Actually its by getting the [Wistia Video Downloader](https://serp.ly/wistia-video-downloader) 👈 👈 👈 👈
+Actually its by getting the [Wistia Video Downloader](https://serp.ly/wistia-video-downloader?via=blog.devinschumacher.com) 👈 👈 👈 👈
 
 ---
 

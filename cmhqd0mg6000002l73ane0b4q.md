@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610893914/4be24c4
 
 # How to Download TikTok Audio (Music, Audio, etc.) from Videos
 
+> 💡 **Want the easy way?** Get the [TikTok Video Downloader extension](https://serp.ly/tiktok-video-downloader?via=blog.devinschumacher.com) and save TikTok video or audio without commands or DevTools.
+
 TikTok videos always contain both **audio and video** in a single MP4 file, but sometimes you just want the **audio track** — to save music, quotes, or background sounds.
 
 Easy.
@@ -74,7 +76,7 @@ You don’t need to install or call FFmpeg manually — yt-dlp handles it.
 
 You can also extract TikTok audio online without touching the command line:
 
-👉 [TikTok Video Downloader](http://serp.ly/tiktok-video-downloader) — paste any TikTok link, and it’ll generate downloadable video and audio-only files automatically.
+👉 [TikTok Video Downloader](http://serp.ly/tiktok-video-downloader?via=blog.devinschumacher.com) — paste any TikTok link, and it’ll generate downloadable video and audio-only files automatically.
 
 
 ## TL;DR:

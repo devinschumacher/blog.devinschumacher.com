@@ -18,7 +18,7 @@ This guide shows you how to **download**, **optimize**, and **auto-name** Circle
 
 
 ## 💡 **Tip:** Don’t want to do this manually?  
-> Try the [**Circle Video Downloader**](https://serp.ly/circle-downloader) — it automatically detects and saves circle.so videos in one click. Or check out the code [repository](https://github.com/serpapps/circle-downloader/)
+> Try the [**Circle Video Downloader**](https://serp.ly/circle-downloader?via=blog.devinschumacher.com) — it automatically detects and saves circle.so videos in one click. Or check out the code [repository](https://github.com/serpapps/circle-downloader/)
 
 
 ---
@@ -103,7 +103,7 @@ yt-dlp -o "%(title)s.%(ext)s" "<PASTE_M3U8_URL_HERE>"   --exec 'ffmpeg -y -i "{}
 ---
 
 > 💡 **Tip:** Prefer a one-click solution?  
-> Use the [**Circle Video Downloader**](https://serp.ly/circle-downloader) to automatically detect, download, and merge Circle.so course videos without touching the command line.
+> Use the [**Circle Video Downloader**](https://serp.ly/circle-downloader?via=blog.devinschumacher.com) to automatically detect, download, and merge Circle.so course videos without touching the command line.
 
 ## Related
 

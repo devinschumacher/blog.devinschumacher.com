@@ -10,6 +10,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762610901438/a96ec19
 
 # Download Skool Videos from .m3u8 Token Streams (HLS Guide)
 
+> 💡 **Want the easy way?** Get the [Skool Video Downloader extension](https://serp.ly/skool-video-downloader-extension?via=blog.devinschumacher.com) and download Skool videos without commands or DevTools.
+
 1. Get the `.m3u8?token=` URL from the network requests
 2. Replace the `"URL"` in the prepared command with the `m3u8?token` URL
 

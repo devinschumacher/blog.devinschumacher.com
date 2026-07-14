@@ -8,6 +8,8 @@ tags: apps, extension, video-downloader, vimeo-videos
 
 ---
 
+> 💡 **Want the easy way?** Get the [Vimeo Video Downloader extension](https://serp.ly/vimeo-downloader?via=blog.devinschumacher.com) and download Vimeo videos without commands or DevTools.
+
 ### PRE-REQUISITE STEPS (initial one-time setup):
 
 * Download homebrew from [homebrew.sh](http://homebrew.sh)
@@ -39,7 +41,7 @@ streamlink https://player.vimeo.com/video/949271536 best -o ~/Desktop/vimeo_vide
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text"><a target="_self" rel="noopener noreferrer nofollow" href="https://serp.ly/stuff/vimeo-video-downloader" style="pointer-events: none">Click here to get the Vimeo Video downloader extension</a></div>
+<div data-node-type="callout-text"><a target="_self" rel="noopener noreferrer nofollow" href="https://serp.ly/vimeo-downloader?via=blog.devinschumacher.com" style="pointer-events: none">Click here to get the Vimeo Video downloader extension</a></div>
 </div>
 
 📺 Click to watch & follow along with the video on YouTube
@@ -107,4 +109,4 @@ streamlink https://player.vimeo.com/video/949271536 best -o "C:\Users\devin\Desk
 
 [![vimeo](https://gist.github.com/user-attachments/assets/fac35ce8-0b05-45a3-ba6c-2cb47bde93c4 align="left")](https://youtu.be/ZnoC6IZg4s4)
 
-[Click here to get the Vimeo Video downloader extension](https://serp.ly/stuff/vimeo-video-downloader)
+[Click here to get the Vimeo Video downloader extension](https://serp.ly/vimeo-downloader?via=blog.devinschumacher.com)

@@ -34,7 +34,7 @@ In this situation, the Vimeo URL is either in the DOM or maybe can be constructe
 
 And u use `streamlink`
 
-👉 Or just get the Vimeo Video Downloader: https://serp.ly/vimeo-video-downloader
+👉 Or just get the Vimeo Video Downloader: https://serp.ly/vimeo-video-downloader?via=blog.devinschumacher.com
 
 
 ## How to download a Vimeo video from the player.vimeo.com URL
@@ -145,7 +145,7 @@ For private or cookie-dependent videos, streamlink does need the headers/cookies
 
 We’ll still want our automation to capture and forward headers for the locked-down cases.
 
-> 👉 Get Vimeo Video Downloader: https://serp.ly/vimeo-video-downloader
+> 👉 Get Vimeo Video Downloader: https://serp.ly/vimeo-video-downloader?via=blog.devinschumacher.com
 
 ### Bonus: Chain the commands together
 
@@ -157,7 +157,7 @@ streamlink -O "URL" best --stream-segment-threads 5 | ffmpeg -i pipe:0 -c copy -
 
 ---
 
-👉 Try the [Vimeo Video Downloader](https://serp.ly/vimeo-video-downloader)
+👉 Try the [Vimeo Video Downloader](https://serp.ly/vimeo-video-downloader?via=blog.devinschumacher.com)
 
 
 ## Related

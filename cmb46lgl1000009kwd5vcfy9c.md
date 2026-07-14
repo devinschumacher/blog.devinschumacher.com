@@ -11,6 +11,8 @@ tags: wget, productivity-hacks
 
 # How to download skool.com videos (and the entire course)
 
+> 💡 **Want the easy way?** Get the [Skool Video Downloader extension](https://serp.ly/skool-video-downloader-extension?via=blog.devinschumacher.com) and download Skool videos without commands or DevTools.
+
 ## Method 1 - Comprehensive, More Difficult
 
 > You can download the entire classroom with this, but its not beginner friendly. If you want the beginner version to just download 1 video at a time, scroll down to the bottom!
@@ -35,7 +37,7 @@ If you’re looking for a simpler solution or have any questions about this proc
     
 5. [live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for visual studio code (free)
     
-6. [pants](https://serp.ly/amazon/pants) (in order for this process to work you have to be wearing pants unfortunately)
+6. [pants](https://serp.ly/amazon/pants?via=blog.devinschumacher.com) (in order for this process to work you have to be wearing pants unfortunately)
     
 
 ## Steps overview
@@ -414,10 +416,10 @@ So if that helped, and you're feelin generous - feel free to sponsor me so I can
 
 ![batg](https://gist.github.com/user-attachments/assets/27fc5d1f-e0cd-4c4d-ac24-f8adb27638cc align="left")
 
-> [Click here to sponsor devin's baths](https://serp.ly/@devin/sponsor)
+> [Click here to sponsor devin's baths](https://serp.ly/@devin/sponsor?via=blog.devinschumacher.com)
 
 # Method 3: How to download skool.com videos easily with the browser extension
 
-%[https://www.youtube.com/watch?v=WRSzeFI_Q7g] 
+%[https://www.youtube.com/watch?v=3Izt1APcK7g]
 
 %[https://www.youtube.com/watch?v=J9eetd89HZk]

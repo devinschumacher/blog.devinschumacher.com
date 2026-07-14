@@ -11,9 +11,9 @@ Lost access to your Loom recordings when your subscription ended? You're not alo
 
 Here's the good news: you can rescue those recordings using yt-dlp, a robust media extraction tool. I'll show you exactly how to retrieve your content across different Loom configurations and streaming formats.
 
-[![](https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-loom-videos-for-free-dl-without-subscription-10-examples-mp4-hls-m3u8-1757463216973.jpg align="center")](https://www.youtube.com/watch?v=4MnyU0kPxlE)
+[![](https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-loom-videos-for-free-dl-without-subscription-10-examples-mp4-hls-m3u8-1757463216973.jpg align="center")](https://www.youtube.com/watch?v=OTusHCQbMPg)
 
-Looking for something simpler? The [Loom Video Downloader](https://serp.ly/loom-video-downloader) handles all the technical stuff automatically — just paste your link and grab your video.
+Looking for something simpler? The [Loom Video Downloader](https://serp.ly/loom-video-downloader?via=blog.devinschumacher.com) handles all the technical stuff automatically — just paste your link and grab your video.
 
 * * *
 
@@ -157,7 +157,7 @@ yt-dlp -f "bestvideo+bestaudio" "https://www.loom.com/embed/ddcf1c1ad21f451ea746
 
 **Key Point:** Always use `+` to join separate streams.
 
-💡 **Pro Tip:** If dealing with embeds, subtitles, or split audio-video seems overwhelming, the [Loom Video Downloader](https://serp.ly/loom-video-downloader) handles all this complexity behind the scenes — no command line wizardry needed.
+💡 **Pro Tip:** If dealing with embeds, subtitles, or split audio-video seems overwhelming, the [Loom Video Downloader](https://serp.ly/loom-video-downloader?via=blog.devinschumacher.com) handles all this complexity behind the scenes — no command line wizardry needed.
 
 * * *
 
@@ -207,7 +207,7 @@ These seven methods cover pretty much every Loom video situation you'll encounte
 
 Master these techniques and you'll handle any Loom video variation — MP4 vs WebM choices, subtitle integration, stream combining, or quality selection.
 
-⚡ **Skip the Terminal:** Prefer point-and-click simplicity? Use the [Loom Video Downloader](https://serp.ly/loom-video-downloader) for instant video retrieval.
+⚡ **Skip the Terminal:** Prefer point-and-click simplicity? Use the [Loom Video Downloader](https://serp.ly/loom-video-downloader?via=blog.devinschumacher.com) for instant video retrieval.
 
 📚 **Deep Dive Resource:**[Complete Loom Video Extraction Reference 🚀 No Subscription Required | ~10 Working Examples (.mp4, HLS, .m3u8) — Full Instructions](https://gist.github.com/devinschumacher/b7be00df9d9809d0ea55663d88dc9d3c)
 

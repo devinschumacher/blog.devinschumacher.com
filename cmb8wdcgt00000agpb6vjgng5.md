@@ -7,6 +7,8 @@ tags: productivity, hacking, extensions
 
 ---
 
+> 💡 **Want the easy way?** Get the [Skool Video Downloader extension](https://serp.ly/skool-video-downloader-extension?via=blog.devinschumacher.com) and download Skool videos without commands or DevTools.
+
 ## Version 1 - Comprehensive, More Difficult
 
 > You can download the entire classroom with this, but its not beginner friendly. If you want the beginner version to just download 1 video at a time, scroll down to the bottom!
@@ -31,7 +33,7 @@ If you’re looking for a simpler solution or have any questions about this proc
     
 5. [live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for visual studio code (free)
     
-6. [pants](https://serp.ly/amazon/pants) (in order for this process to work you have to be wearing pants unfortunately)
+6. [pants](https://serp.ly/amazon/pants?via=blog.devinschumacher.com) (in order for this process to work you have to be wearing pants unfortunately)
     
 
 ## Steps overview
@@ -410,10 +412,10 @@ So if that helped, and you're feelin generous - feel free to sponsor me so I can
 
 ![batg](https://gist.github.com/user-attachments/assets/27fc5d1f-e0cd-4c4d-ac24-f8adb27638cc align="left")
 
-> [Click here to sponsor devin's baths](https://serp.ly/@devin/sponsor)
+> [Click here to sponsor devin's baths](https://serp.ly/@devin/sponsor?via=blog.devinschumacher.com)
 
 # How to download a single video from skool.com (Method 3 - Chrome Extension)
 
-%[https://youtu.be/WRSzeFI_Q7g] 
+%[https://www.youtube.com/watch?v=3Izt1APcK7g]
 
-Download it here: [https://serp.ly/skool-video-downloader-extension](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqblJMdFcxXzd6MU54V19PYTZwV3d3SFhJR2JZQXxBQ3Jtc0tta1RQdUx0RmtFWnpHVXJaNmhWZDBhWXR3bXZ6TkR2NGhHOW5yYmVyU0lTQ2UxRzVubEZGYlRNODJ5VkVWN2RoYUNaUzJqOHBlWUdYdFZSMjBvam1UbldtT1VMTVR5cnd2UlB2YVBxMU51amdvUThvOA&q=https%3A%2F%2Fserp.ly%2Fskool-video-downloader-extension)
+Download it here: [https://serp.ly/skool-video-downloader-extension?via=blog.devinschumacher.com](https://serp.ly/skool-video-downloader-extension?via=blog.devinschumacher.com)
