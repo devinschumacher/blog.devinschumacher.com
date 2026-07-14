@@ -168,7 +168,7 @@ Just apply a filter to your entire sheet, and sort A-Z on column A and you shoul
 
 ## Final thoughts
 
-If this was helpful for you –  [subscribe to the yt channel](https://www.youtube.com/@devinschumacher1?sub_confirmation=1)
+If this was helpful for you –  [subscribe to the yt channel](https://www.youtube.com/channel/UCnzb7gSRT1PgYJoK3TFnOTA?sub_confirmation=1)
 
 I’m going to be making a lot more videos with tips that will help save you time, increase your productivity, and basically make you feel like a hacker… or Neo from the matrix. which is always a good thing.
 
