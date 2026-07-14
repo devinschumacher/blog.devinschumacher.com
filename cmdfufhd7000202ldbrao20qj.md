@@ -44,7 +44,7 @@ streamlink https://player.vimeo.com/video/949271536 best -o ~/Desktop/vimeo_vide
 
 📺 Click to watch & follow along with the video on YouTube
 
-[![vimeo](https://gist.github.com/user-attachments/assets/fac35ce8-0b05-45a3-ba6c-2cb47bde93c4 align="left")](https://youtu.be/jHtHkm9uGqU)
+[![vimeo](https://gist.github.com/user-attachments/assets/fac35ce8-0b05-45a3-ba6c-2cb47bde93c4 align="left")](https://youtu.be/MeLNJSwCnwk)
 
 # How to Download Vimeo Video for FREE (No Extensions Needed) -- WINDOWS
 
@@ -105,6 +105,6 @@ streamlink https://player.vimeo.com/video/949271536 best -o "C:\Users\devin\Desk
 
 📺 Click to watch & follow along with the video on YouTube
 
-[![vimeo](https://gist.github.com/user-attachments/assets/fac35ce8-0b05-45a3-ba6c-2cb47bde93c4 align="left")](https://youtu.be/RjO0NivCiY0)
+[![vimeo](https://gist.github.com/user-attachments/assets/fac35ce8-0b05-45a3-ba6c-2cb47bde93c4 align="left")](https://youtu.be/ZnoC6IZg4s4)
 
 [Click here to get the Vimeo Video downloader extension](https://serp.ly/stuff/vimeo-video-downloader)
